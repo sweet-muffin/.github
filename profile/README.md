@@ -1,4 +1,4 @@
-## Sweet Muffin 🧁
+## Muffin 🧁
 <!--
 
 **Here are some ideas to get you started:**
